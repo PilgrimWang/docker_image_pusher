@@ -5,4 +5,6 @@ minio/warp:v0.10.0
 alpine/helm:3.15.2
 frooodle/s-pdf:latest
 rancher/fleet-agent:v0.8.0
+rancher/rancher-agent:v2.7.9
+rancher/rancher-webhook:v0.3.6
 bitnami/redis:7.2.4-debian-12-r9
