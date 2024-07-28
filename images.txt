@@ -4,3 +4,4 @@ kasmweb/nginx:1.25.3
 minio/warp:v0.10.0
 alpine/helm:3.15.2
 frooodle/s-pdf:latest
+rancher/fleet-agent:v0.8.0
