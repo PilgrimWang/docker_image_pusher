@@ -1,17 +1,1 @@
-python:alpine3.19
-kasmweb/nginx:1.25.3
---platform=linux/amd64 redis:7.0.15-alpine3.20
-minio/warp:v0.10.0
-alpine/helm:3.15.2
-frooodle/s-pdf:latest
-rancher/fleet-agent:v0.8.0
-rancher/rancher-agent:v2.7.9
-rancher/rancher-webhook:v0.3.6
-bitnami/redis:7.2.4-debian-12-r9
-bitnami/minio:2024.5.10-debian-12-r0
-openebs/provisioner-localpv:3.3.0
-linkedin/datahub-frontend-react:v0.12.1
-linkedin/datahub-gms:v0.12.1
-grafana/grafana:10.3.3
-registry.k8s.io/prometheus-adapter/prometheus-adapter:v0.11.2
-traefik:3.1.0
+apache/airflow:3.0.6
