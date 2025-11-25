@@ -1,4 +1,2 @@
-apache/airflow:3.0.6
-postgres:13
-redis:7.2-bookworm
-prefecthq/prefect:3-latest
+postgres:18
+dpage/pgadmin4:latest
