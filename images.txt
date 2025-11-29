@@ -2,3 +2,5 @@ postgres:18
 dpage/pgadmin4:latest
 prom/prometheus:v3.7.3
 docker.io/vesoft/nebula-metad:nightly
+docker.io/vesoft/nebula-storaged:nightly
+docker.io/vesoft/nebula-graphd:nightly
